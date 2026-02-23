@@ -14,6 +14,8 @@ The results page ranks all 10 Schwartz values by strength, tiers them (Core → 
 One caveat worth noting: any self-administered assessment has limits. People tend to inflate socially desirable values (universalism, benevolence) and downplay less flattering ones (power, hedonism). The tradeoff scenarios help counteract that, but the best complement to this would be reflecting on your actual past decisions — where you put your time, money, and energy when it cost you something.
 
 ## Usage
+`git clone https://github.com/helenawillits/values-app.git`
+
 `cd values-app`
 
 `npm install`
