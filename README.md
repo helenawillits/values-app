@@ -2,6 +2,7 @@
 
 This simple react app issues an assessment to identify the order of the user's values. These values come from Shalom Schwartz's circumplex model.
 
+![screenshot](./media/value-assessment-screenshot.png)
 
 #### This value assessment has two parts:
 
